@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07e2ce00-cbe5-4535-bbf8-3513e32ae1b2" name="Default Changelist" comment="" />
+    <list default="true" id="07e2ce00-cbe5-4535-bbf8-3513e32ae1b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -32,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="21AAZsffMlJJsRwVzMcK5S9RFxk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,13 +46,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="ics" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -139,6 +147,7 @@
       <workItem from="1637373578890" duration="286000" />
       <workItem from="1637495487211" duration="353000" />
       <workItem from="1637564677262" duration="8962000" />
+      <workItem from="1637629644786" duration="3251000" />
     </task>
     <servers />
   </component>
@@ -158,10 +167,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1637573438274" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1637572967498">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1637631999036">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1637572967498" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1637631999036" />
     <state width="1493" height="320" key="GridCell.Tab.0.bottom" timestamp="1637573005468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -186,10 +195,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="413" y="108" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1637572982567" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1637575237846">
+    <state x="270" y="0" key="SettingsEditor" timestamp="1637632590431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1637575237846" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1637632590431" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1637632763573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1637632763573" />
     <state x="199" y="106" key="new project wizard" timestamp="1637572950648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
